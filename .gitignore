@@ -3,3 +3,6 @@ out/
 target/
 .idea/
 *.class
+bin/
+out/
+Lutskiy/
